@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "7c21dd8138ce83a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4679524b34d1b8b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8540ba05cb0b4356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Docker Interview Questions by ChatGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aac2a59fbadd5c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Docker Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0c1a60dc6bb1ea5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvases/DevOps Mind map.canvas",
+                "viewState": {
+                  "x": -110,
+                  "y": -360.5856768517938,
+                  "zoom": -0.8333333333333333
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34778d50bd5d4424",
+    "type": "split",
+    "children": [
+      {
+        "id": "05bcd74a3a35f205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0712572641cf246",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d755beb7d7bfd2c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beff4a79ed037459",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "299d1d0941d85a6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5339b098d2bfd0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9061ce56920322b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "canvases/DevOps Mind map.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f128189f0cd22a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "canvases/DevOps Mind map.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7dd6f7d5e14e6ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "387190ab800f9fd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "canvases/DevOps Mind map.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0c1a60dc6bb1ea5",
+  "lastOpenFiles": [
+    "canvases",
+    "DevOps/Docker Resources.md",
+    "DevOps/Docker Notes.md",
+    "canvases/DevOps Mind map.canvas",
+    "DevOps/DevOps Interview Questions.md",
+    "DevOps/Docker Interview Questions by ChatGPT.md",
+    "Personal/My Legacy Collaborative Note taking app.md",
+    "Images",
+    "Images/Pasted image 20230928204047.png",
+    "Images/Pasted image 20230928203831.png",
+    "Images/Pasted image 20230928203641.png",
+    "Images/Pasted image 20230928203556.png",
+    "Images/Pasted image 20230928203012.png",
+    "Images/Pasted image 20230928202715.png",
+    "Images/Pasted image 20230928202517.png",
+    "Images/Pasted image 20230928202248.png",
+    "Images/Pasted image 20230928201832.png",
+    "kubernet1.JPG.md",
+    "DevOps/kubernet1.JPG",
+    "DevOps/~ubernet1.tmp",
+    "Personal",
+    "DevOps",
+    "Docker Resources 1.md",
+    "Resources.md"
+  ]
+}
