@@ -94,4 +94,7 @@ ENTRYPOINT FLASK_APP=/opt/source-code/app.py flask run
 ``` 
 
 `docker build Dockerfile –t yourusername/my-custom-app`
-`docker push yourusername/my-custom-app` Uploading to docker registry
+`docker push yourusername/my-custom-app` 
+_This will upload your dockerfile to docker registory online such as dockerhub.io_
+
+
