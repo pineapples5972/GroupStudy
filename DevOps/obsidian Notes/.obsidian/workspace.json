@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Docker Notes.md",
+                "file": "DevOps/Docker Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,11 @@
             "id": "f0c1a60dc6bb1ea5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvases/DevOps Mind map.canvas",
-                "viewState": {
-                  "x": -110,
-                  "y": -360.5856768517938,
-                  "zoom": -0.8333333333333333
-                }
+                "file": "Meta Notes/Error Journal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvases/DevOps Mind map.canvas",
+                "file": "Meta Notes/Error Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvases/DevOps Mind map.canvas",
+                "file": "Meta Notes/Error Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvases/DevOps Mind map.canvas"
+                "file": "Meta Notes/Error Journal.md"
               }
             }
           }
@@ -176,14 +173,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c1a60dc6bb1ea5",
+  "active": "c0712572641cf246",
   "lastOpenFiles": [
-    "canvases",
-    "DevOps/Docker Resources.md",
+    "Notes/Untitled.md",
+    "Meta Notes/Error Journal.md",
     "DevOps/Docker Notes.md",
-    "canvases/DevOps Mind map.canvas",
-    "DevOps/DevOps Interview Questions.md",
     "DevOps/Docker Interview Questions by ChatGPT.md",
+    "DevOps/Docker Commands.md",
+    "DevOps/DevOps Interview Questions.md",
+    "canvases/DevOps Mind map.canvas",
+    "Meta Notes",
+    "DevOps/Docker Resources.md",
+    "canvases",
     "Personal/My Legacy Collaborative Note taking app.md",
     "Images",
     "Images/Pasted image 20230928204047.png",
