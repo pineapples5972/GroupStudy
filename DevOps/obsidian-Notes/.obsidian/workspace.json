@@ -31,9 +31,11 @@
             "id": "f0c1a60dc6bb1ea5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/Docker-Resources.md"
+                "file": "Meta-Notes/Error-Journal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Docker-Resources.md",
+                "file": "Meta-Notes/Error-Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Docker-Resources.md",
+                "file": "Meta-Notes/Error-Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Docker-Resources.md"
+                "file": "Meta-Notes/Error-Journal.md"
               }
             }
           }
@@ -169,14 +171,14 @@
   },
   "active": "f0c1a60dc6bb1ea5",
   "lastOpenFiles": [
+    "DevOps/Docker-Resources.md",
     "DevOps/Docker-Interview-Questions-by-ChatGPT.md",
     "DevOps/Docker-Commands.md",
     "DevOps/DevOps-Interview-Questions.md",
     "canvases/DevOps-Mind-map.canvas",
-    "Meta-Notes/Error Journal.md",
+    "Meta-Notes/Error-Journal.md",
     "DevOps/Docker Resources.md",
     "DevOps/Docker-Notes.md",
-    "DevOps/Docker-Resources.md",
     "Notes/Untitled.md",
     "Meta Notes/Error-Journal.md",
     "Meta-Notes",
