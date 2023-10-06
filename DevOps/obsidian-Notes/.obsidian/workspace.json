@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to YAML.md",
+                "file": "DevOps/Introduction-to-YAML.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to YAML.md",
+                "file": "DevOps/Introduction-to-YAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to YAML.md",
+                "file": "DevOps/Introduction-to-YAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to YAML.md"
+                "file": "DevOps/Introduction-to-YAML.md"
               }
             }
           }
@@ -174,13 +174,13 @@
   },
   "active": "5b09f9e147bad77e",
   "lastOpenFiles": [
+    "DevOps/Docker-Resources.md",
+    "DevOps/Docker-Interview-Questions-by-ChatGPT.md",
+    "DevOps/Introduction-to-YAML.md",
     "DevOps/Docker-Commands.md",
-    "Introduction to YAML.md",
     "canvases/DevOps-Mind-map.canvas",
     "Pasted image 20231006134325.png",
     "Meta-Notes/Error-Journal.md",
-    "DevOps/Docker-Resources.md",
-    "DevOps/Docker-Interview-Questions-by-ChatGPT.md",
     "DevOps/DevOps-Interview-Questions.md",
     "DevOps/Docker Resources.md",
     "DevOps/Docker-Notes.md",
