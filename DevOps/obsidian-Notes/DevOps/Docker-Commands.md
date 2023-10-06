@@ -155,3 +155,68 @@ Now we can pull images from our `registry-server` as well. Use `docker pull [
 
 In our case we can use: `docker pull localhost:5000/nginx`
 
+#### Docker on windows
+
+##### 1. Docker Toolbox
+1. Oracle Virtualbox
+2. Docker Engine
+3. Docker machine
+4. Docker compose 
+5. Kitematic GUI
+
+##### 2. Docker Desktop for windows
+1. HyperV
+2. Linux Distro
+3. Docker engine
+
+##### 3. Docker on Mac
+1. HyperKit
+2. Linux Distro
+3. Docker Engine
+
+#### Container Orchestration
+when one container is becoming out of load and capacity to hold more users and data processing new instances of the container need to be spawn.
+Container Orchestration contains tools that make this process easy and automated.
+example: 
+`docker service create --replicas=100 nodejs`
+
+There are various docker orchestration solutions available some common are:
+1. Docker Swarm from docker
+2. Kubernetes from Google
+3. MESOS from Apache
+
+###### Kubernetes 
+In docker you might run one instance of container like this:
+`docker run my-web-server`
+
+but in kubernets you run multiple instance of them like this:
+`kubectl run --replicas=1000 my-web-server`
+
+you can scale them if 1000 arent enough
+`kubectl scale --replicas=2000 my-web-server`
+
+you can even roll update into them 
+`kubectl rolling-update my-web-server --image-web-server:2`
+
+or rollback updates if it made them unstable
+`kubectl rolling-update my-web-server --rollback`
+
+**1. Node** - Is a machine physical or virtual on which kubernetes and its set of tools installed.
+	In nodes there are worker machines where containers will be launched by kubernetes.
+**2. Cluster** - Is a set of nodes grouped together so even if one node fails your application will be still accessible by other active nodes.
+**3. Master** - Is a node where kubernetes control plane component installed. Master manages the nodes and it responsible for actual orchestration of containers on the worker nodes. 
+
+Some commands of kubernetes
+
+Run a cluster
+`kubectl run hello-mincube`
+
+Get Cluster info
+`kubectl cluster-info`
+
+get nodes
+`kubectl get nodes`
+
+run 100 instances of *my-web-app* container images
+`kubectl run my-web-app --image=my-web-app --replicas=100`
+

@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8540ba05cb0b4356",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6aac2a59fbadd5c8",
             "type": "leaf",
             "state": {
@@ -28,19 +20,31 @@
             }
           },
           {
+            "id": "5b09f9e147bad77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to YAML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f0c1a60dc6bb1ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta-Notes/Error-Journal.md",
+                "file": "DevOps/Docker-Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta-Notes/Error-Journal.md",
+                "file": "Introduction to YAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta-Notes/Error-Journal.md",
+                "file": "Introduction to YAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta-Notes/Error-Journal.md"
+                "file": "Introduction to YAML.md"
               }
             }
           }
@@ -155,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c1a60dc6bb1ea5",
+  "active": "5b09f9e147bad77e",
   "lastOpenFiles": [
+    "DevOps/Docker-Commands.md",
+    "Introduction to YAML.md",
+    "canvases/DevOps-Mind-map.canvas",
+    "Pasted image 20231006134325.png",
+    "Meta-Notes/Error-Journal.md",
     "DevOps/Docker-Resources.md",
     "DevOps/Docker-Interview-Questions-by-ChatGPT.md",
-    "DevOps/Docker-Commands.md",
     "DevOps/DevOps-Interview-Questions.md",
-    "canvases/DevOps-Mind-map.canvas",
-    "Meta-Notes/Error-Journal.md",
     "DevOps/Docker Resources.md",
     "DevOps/Docker-Notes.md",
     "Notes/Untitled.md",
@@ -195,7 +200,6 @@
     "Images/Pasted image 20230928202248.png",
     "Images/Pasted image 20230928201832.png",
     "kubernet1.JPG.md",
-    "DevOps/kubernet1.JPG",
     "DevOps/~ubernet1.tmp",
     "Personal",
     "DevOps",
