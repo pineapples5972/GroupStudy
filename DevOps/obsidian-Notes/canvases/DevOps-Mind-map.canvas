@@ -5,7 +5,7 @@
 		{"id":"2363188893e16617","type":"file","file":"DevOps/DevOps-Interview-Questions.md","x":-320,"y":-800,"width":700,"height":1340},
 		{"id":"21967350af2b0695","type":"file","file":"DevOps/Docker/Docker-Resources.md","x":440,"y":-800,"width":440,"height":840},
 		{"id":"d51685200d5ca023","type":"text","text":"# DevOps Revision","x":-160,"y":-1000,"width":380,"height":60,"color":"4"},
-		{"id":"b038a9f831e7f349","x":460,"y":141,"width":400,"height":399,"type":"file","file":"Images/Pasted image 20231006134325.png"}
+		{"id":"b038a9f831e7f349","type":"file","file":"Images/Pasted image 20231006134325.png","x":460,"y":141,"width":400,"height":399}
 	],
 	"edges":[]
 }
