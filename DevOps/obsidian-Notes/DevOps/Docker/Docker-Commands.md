@@ -2,6 +2,7 @@
 tags:
   - docker_notes
   - docker_commands
+  - docker
 ---
 ### Docker Dashboard
 - [[Docker Resources]]

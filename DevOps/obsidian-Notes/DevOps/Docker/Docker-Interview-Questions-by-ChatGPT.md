@@ -5,6 +5,7 @@ tags:
   - docker_interview_questions
   - devops_interview_questions
   - devops
+  - docker
 ---
 These are #docker_interview_questions by chatgpt for more refer: [[DevOps Interview Questions]]
 

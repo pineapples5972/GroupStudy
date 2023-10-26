@@ -2,6 +2,7 @@
 tags:
   - devops
   - devops_interview_questions
+  - docker
 ---
 
 ![[Pasted image 20230928202248.png]]

@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6aac2a59fbadd5c8",
+            "id": "7c878bef05295973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Docker-Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b09f9e147bad77e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Introduction-to-YAML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0c1a60dc6bb1ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Docker-Commands.md",
+                "file": "Unsorted/Error-Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "299d1d0941d85a6c",
@@ -110,25 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Introduction-to-YAML.md",
+                "file": "Unsorted/Error-Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f128189f0cd22a3f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "DevOps/Introduction-to-YAML.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -145,21 +108,34 @@
             }
           },
           {
+            "id": "f128189f0cd22a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unsorted/Error-Journal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "387190ab800f9fd3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Introduction-to-YAML.md"
+                "file": "Unsorted/Error-Journal.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,16 +148,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b09f9e147bad77e",
+  "active": "7c878bef05295973",
   "lastOpenFiles": [
-    "DevOps/Docker-Resources.md",
-    "DevOps/Docker-Interview-Questions-by-ChatGPT.md",
-    "DevOps/Introduction-to-YAML.md",
-    "DevOps/Docker-Commands.md",
-    "canvases/DevOps-Mind-map.canvas",
-    "Pasted image 20231006134325.png",
-    "Meta-Notes/Error-Journal.md",
+    "Unsorted/Cron Jobs.md",
+    "DevOps/Docker/Docker-Commands.md",
+    "DevOps/Git.md",
+    "DevOps/Docker/Introduction-to-YAML.md",
+    "Projects/Voting App.md",
     "DevOps/DevOps-Interview-Questions.md",
+    "DevOps/Docker/Docker-Resources.md",
+    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
+    "Projects",
+    "Unsorted/Error-Journal.md",
+    "Images/Untitled.md",
+    "Images/Pasted image 20231006134325.png",
+    "Unsorted",
+    "DevOps/Docker",
+    "canvases/DevOps-Mind-map.canvas",
     "DevOps/Docker Resources.md",
     "DevOps/Docker-Notes.md",
     "Notes/Untitled.md",
