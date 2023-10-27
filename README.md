@@ -10,8 +10,8 @@
 ### Projects
 + [Voting App](DevOps/obsidian-Notes/Projects/Voting-App.md)
 
-### Meta Notes
-+ [Error Journal](DevOps/obsidian-Notes/Meta-Notes/Error-Journal.md)
+### Unsorted
++ [Error Journal](DevOps/obsidian-Notes/Unsorted/Error-Journal.md)
 
 ### PDFs
 + [DevOps Revise Notion Notes](DevOps/pdfs/DevOps-Revise-Notion-Notes.pdf)
