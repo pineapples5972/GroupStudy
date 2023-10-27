@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c878bef05295973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Voting-App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4729cd5ed4327ee9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Untitled.md"
-              }
-            }
-          },
-          {
             "id": "2ea4f08832cfa97b",
             "type": "leaf",
             "state": {
@@ -41,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0712572641cf246",
+  "active": "2ea4f08832cfa97b",
   "lastOpenFiles": [
+    "Projects/Voting-App.md",
     "DevOps/Docker/test.md",
     "canvases/DevOps-Mind-map.canvas",
     "DevOps/Docker/Docker-Commands.md",
@@ -181,7 +159,6 @@
     "Untitled.md",
     "Excalidraw/Drawing 2023-10-26 21.31.10.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.30.59.excalidraw.md",
-    "Projects/Voting-App.md",
     "Excalidraw/Drawing 2023-10-26 21.29.25.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.27.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.24.excalidraw.md",

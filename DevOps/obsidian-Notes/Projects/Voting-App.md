@@ -30,10 +30,10 @@ tags:
 - Run Redis Container in bg: `docker run -d --name=redis redis`
 - Link redis container with voting app network: `docker run -p 5000:80 --link redis:redis voting-app`
 ###### Running with postgres and worker-app
-- Pull Postgres image: `docker run -d --name=db postgres:9.4`
+- Pull Postgres image: `docker run -d --name=db -e POSTGRESS_PASSWORD=password postgres:9.4`
 - navigate to worker directory `cd ../worker `
 - build the worker: `docker build . -t worker-app`
-- run worker container: `docker run --link redis:redis --link db:db worker-app`
+- run and link database to redis and worker container: `docker run --link redis:redis --link db:db worker-app`
 ###### Running with result-app finally
 - navigate to result directory: `cd ../result`
 - build image: `docker build . -t result-app`
