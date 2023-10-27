@@ -26,11 +26,11 @@ tags:
 - docker run: `docker run -p 5000:80 voting-app`
 - https://localhost:5000 
 ###### Running with Redis attached:
-- `docker pull docker.io/redis`
-- `docker run -d --name=redis redis`
-- `docker run -p 5000:80 --link redis:redis voting-app`
+- Pull Redis image: `docker pull docker.io/redis`
+- Run Redis Container in bg: `docker run -d --name=redis redis`
+- Link redis container with voting app network: `docker run -p 5000:80 --link redis:redis voting-app`
 ###### Running with postgres and worker-app
-- `docker run -d --name=db postgres:9.4`
+- Pull Postgres image: `docker run -d --name=db postgres:9.4`
 - navigate to worker directory `cd ../worker `
 - build the worker: `docker build . -t worker-app`
 - run worker container: `docker run --link redis:redis --link db:db worker-app`

@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "299d1d0941d85a6c",
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ea4f08832cfa97b",
+  "active": "c0712572641cf246",
   "lastOpenFiles": [
     "DevOps/Docker/test.md",
     "canvases/DevOps-Mind-map.canvas",
