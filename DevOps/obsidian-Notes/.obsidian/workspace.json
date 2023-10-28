@@ -11,9 +11,11 @@
             "id": "2ea4f08832cfa97b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md"
+                "file": "Projects/Voting-App.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md",
+                "file": "Projects/Voting-App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md",
+                "file": "Projects/Voting-App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md"
+                "file": "Projects/Voting-App.md"
               }
             }
           }
@@ -148,10 +150,10 @@
   },
   "active": "2ea4f08832cfa97b",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "DevOps/Docker/Docker-Resources.md",
-    "canvases/DevOps-Mind-map.canvas",
     "DevOps/Docker/Docker-Commands.md",
+    "DevOps/Docker/Docker-Resources.md",
+    "Untitled.canvas",
+    "canvases/DevOps-Mind-map.canvas",
     "Projects/Voting-App.md",
     "2023-10-27.md",
     "DevOps/DevOps-Interview-Questions.md",

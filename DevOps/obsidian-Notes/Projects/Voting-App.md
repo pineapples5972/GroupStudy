@@ -20,6 +20,7 @@ tags:
 
 #### All Commands As per [Video 1](https://kodekloud.com/topic/demo-example-voting-application-with-docker-compose/): 
 - Git Clone: `git clone https://github.com/dockersamples/example-voting-app.git`  
+- navigate to voting-app directory: `cd vote`
 - docker build: `docker build . -t voting-app`
 ###### Running Only voting-app:
 - docker run: `docker run -p 5000:80 voting-app`
