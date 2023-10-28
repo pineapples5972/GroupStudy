@@ -11,11 +11,9 @@
             "id": "2ea4f08832cfa97b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Projects/Voting-App.md",
-                "mode": "source",
-                "source": false
+                "file": "DevOps/Docker/Docker-Resources.md"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "299d1d0941d85a6c",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Voting-App.md",
+                "file": "DevOps/Docker/Docker-Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Voting-App.md",
+                "file": "DevOps/Docker/Docker-Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Voting-App.md"
+                "file": "DevOps/Docker/Docker-Resources.md"
               }
             }
           }
@@ -151,10 +148,16 @@
   },
   "active": "2ea4f08832cfa97b",
   "lastOpenFiles": [
-    "Projects/Voting-App.md",
-    "DevOps/Docker/test.md",
+    "Untitled.canvas",
+    "DevOps/Docker/Docker-Resources.md",
     "canvases/DevOps-Mind-map.canvas",
     "DevOps/Docker/Docker-Commands.md",
+    "Projects/Voting-App.md",
+    "2023-10-27.md",
+    "DevOps/DevOps-Interview-Questions.md",
+    "DevOps/Docker/test.md",
+    "Unsorted/Error-Journal.md",
+    "Unsorted/Cron Jobs.md",
     "Excalidraw/Drawing 2023-10-26 21.23.09.excalidraw.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-10-26 21.31.10.excalidraw.md",
@@ -163,12 +166,8 @@
     "Excalidraw/Drawing 2023-10-26 21.29.27.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.24.excalidraw.md",
     "Excalidraw",
-    "Unsorted/Error-Journal.md",
-    "Unsorted/Cron Jobs.md",
     "DevOps/Git.md",
     "DevOps/Docker/Introduction-to-YAML.md",
-    "DevOps/DevOps-Interview-Questions.md",
-    "DevOps/Docker/Docker-Resources.md",
     "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
     "Projects",
     "Images/Untitled.md",
@@ -195,8 +194,6 @@
     "kubernet1.JPG.md",
     "DevOps/~ubernet1.tmp",
     "Personal",
-    "DevOps",
-    "Docker Resources 1.md",
-    "Resources.md"
+    "DevOps"
   ]
 }
