@@ -4,7 +4,6 @@ tags:
   - docker_notes
   - project
 ---
-
 **Project Source Code:** https://github.com/dockersamples/example-voting-app.git
 
 #### Tasks:
@@ -12,9 +11,9 @@ tags:
 - [x] build docker image using repo
 - [x] run the container
 - [x] access the webapp through browser
-- [ ] resolve the issues (if found)
-- [ ] run with redis attached
-- [ ] run with worker app and postgres
+- [x] resolve the issues (if found)
+- [x] run with redis attached
+- [x] run with worker app and postgres
 - [ ] run with result app
 - [ ] customize the app
 - [ ] rerun the app
