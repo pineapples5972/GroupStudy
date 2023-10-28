@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f31acabd931ba4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Voting-App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,32 +186,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40eefa28c7966763",
+  "active": "4f31acabd931ba4e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "attachments/Drawings/voting-app.excalidraw.md",
+    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
+    "DevOps/Docker/Introduction-to-YAML.md",
+    "attachments/Images/Pasted image 20231028161523.png",
     "Unsorted/Error-Journal.md",
+    "Unsorted/Cron Jobs.md",
+    "DevOps/Docker/test.md",
+    "Projects/Voting-App.md",
+    "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
     "attachments/Drawings",
     "attachments",
-    "attachments/Drawings/voting-app.excalidraw.md",
-    "Projects/Voting-App.md",
     "DevOps/DevOps-Interview-Questions.md",
     "DevOps/Docker/Docker-Commands.md",
     "DevOps/Docker/Docker-Resources.md",
     "Untitled.canvas",
     "canvases/DevOps-Mind-map.canvas",
     "2023-10-27.md",
-    "DevOps/Docker/test.md",
-    "Unsorted/Cron Jobs.md",
     "Excalidraw/Drawing 2023-10-26 21.23.09.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.31.10.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.30.59.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.25.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.27.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.24.excalidraw.md",
-    "Excalidraw",
     "DevOps/Git.md",
-    "DevOps/Docker/Introduction-to-YAML.md",
-    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
     "Projects",
     "attachments/Images/Untitled.md",
     "attachments/Images/Pasted image 20231006134325.png",
@@ -211,7 +225,6 @@
     "Meta Notes/Error-Journal.md",
     "Meta-Notes",
     "canvases",
-    "Personal/My Legacy Collaborative Note taking app.md",
     "attachments/Images",
     "attachments/Images/Pasted image 20230928204047.png",
     "attachments/Images/Pasted image 20230928203831.png",
@@ -221,7 +234,6 @@
     "attachments/Images/Pasted image 20230928202715.png",
     "attachments/Images/Pasted image 20230928202517.png",
     "attachments/Images/Pasted image 20230928202248.png",
-    "attachments/Images/Pasted image 20230928201832.png",
     "DevOps/~ubernet1.tmp"
   ]
 }
