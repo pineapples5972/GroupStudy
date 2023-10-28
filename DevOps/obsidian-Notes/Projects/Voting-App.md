@@ -63,6 +63,7 @@ podman run -d --name worker-app --pod my-pod worker-app
 ```
 
 %% In Podman, you cannot specify port mappings for individual containers within a pod. Instead, you need to define port mappings for the entire pod when you create it. To work around this limitation, you can create a new pod with the desired port mapping and then move your existing containers into the new pod. %%
+
 3. **Create a new pod with the desired port mapping:**
   `podman pod create --name my-new-pod -p 5001:80 --network my-network`
   
@@ -75,6 +76,7 @@ podman run -d --name worker-app --pod my-pod worker-app
 
 The Issue is Postgres is failing, because its database is not initiated.
 Its should be initialized with these commands:
+
 ```
 CREATE DATABASE mydatabase; 
 CREATE USER myuser WITH PASSWORD 'mypassword'; 
