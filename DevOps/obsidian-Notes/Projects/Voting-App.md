@@ -54,7 +54,7 @@ tags:
 1. **Create a Pod and Specify Port Mapping:**
    `podman pod create --name my-pod -p 5000:80 --network my-network`
 
-2. **Run Containers Inside the pod:
+2. **Run Containers Inside the pod:**
 ```
 podman run -d --name redis --pod my-pod redis
 podman run -d --name voting-app --pod my-pod voting-app
