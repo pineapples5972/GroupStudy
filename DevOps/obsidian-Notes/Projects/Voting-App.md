@@ -4,6 +4,7 @@ tags:
   - docker_notes
   - project
 ---
+![[voting-app.excalidraw]]
 **Project Source Code:** https://github.com/dockersamples/example-voting-app.git
 
 #### Tasks:
