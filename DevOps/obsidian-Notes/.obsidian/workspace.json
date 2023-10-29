@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "224e31f215b38032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "40eefa28c7966763",
             "type": "leaf",
             "state": {
@@ -47,9 +35,21 @@
             "id": "4f31acabd931ba4e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md"
+                "file": "Projects/Voting-App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9df3afdd7917d33",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "DevOps/Docker/Docker-Resources.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md",
+                "file": "DevOps/Docker/Docker-Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md",
+                "file": "DevOps/Docker/Docker-Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md"
+                "file": "DevOps/Docker/Docker-Resources.md"
               }
             }
           }
@@ -184,26 +184,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f31acabd931ba4e",
+  "active": "f9df3afdd7917d33",
   "lastOpenFiles": [
-    "Unsorted/Error-Journal.md",
+    "Projects/Nginx Web Hosting.md",
     "Projects/Voting-App.md",
+    "canvases/DevOps-Mind-map.canvas",
+    "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md",
+    "DevOps/Docker/Docker-Resources.md",
+    "DevOps/Docker/Docker-Commands.md",
+    "Unsorted/Error-Journal.md",
     "attachments/Drawings/voting-app.excalidraw.md",
     "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
     "DevOps/Docker/Introduction-to-YAML.md",
     "attachments/Images/Pasted image 20231028161523.png",
     "Unsorted/Cron Jobs.md",
     "DevOps/Docker/test.md",
-    "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md",
     "Excalidraw",
-    "Untitled.md",
     "attachments/Drawings",
     "attachments",
     "DevOps/DevOps-Interview-Questions.md",
-    "DevOps/Docker/Docker-Commands.md",
-    "DevOps/Docker/Docker-Resources.md",
     "Untitled.canvas",
-    "canvases/DevOps-Mind-map.canvas",
     "2023-10-27.md",
     "Excalidraw/Drawing 2023-10-26 21.23.09.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.31.10.excalidraw.md",
