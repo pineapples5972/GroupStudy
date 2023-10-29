@@ -5,7 +5,7 @@
 		{"id":"1391531b26828af1","type":"file","file":"DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md","x":-720,"y":-260,"width":400,"height":640,"color":"5"},
 		{"id":"21967350af2b0695","type":"file","file":"DevOps/Docker/Docker-Resources.md","x":480,"y":-960,"width":440,"height":840,"color":"6"},
 		{"id":"d51685200d5ca023","type":"text","text":"# DevOps Revision","x":-120,"y":-1160,"width":380,"height":60,"color":"4"},
-		{"id":"b038a9f831e7f349","type":"file","file":"Images/Pasted image 20231006134325.png","x":500,"y":-19,"width":400,"height":399},
+		{"id":"b038a9f831e7f349","type":"file","file":"attachments/Images/Pasted image 20231006134325.png","x":500,"y":-19,"width":400,"height":399},
 		{"id":"2363188893e16617","type":"file","file":"DevOps/DevOps-Interview-Questions.md","x":-280,"y":-960,"width":700,"height":1340,"color":"3"}
 	],
 	"edges":[]
