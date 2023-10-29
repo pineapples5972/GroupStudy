@@ -35,19 +35,26 @@
             "id": "4f31acabd931ba4e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvases/DevOps-Mind-map.canvas",
-                "viewState": {
-                  "x": 100,
-                  "y": -340,
-                  "zoom": -1.6069888070511553
-                }
+                "file": "Projects/Voting-App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9df3afdd7917d33",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "DevOps/Docker/Docker-Resources.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvases/DevOps-Mind-map.canvas",
+                "file": "DevOps/Docker/Docker-Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvases/DevOps-Mind-map.canvas",
+                "file": "DevOps/Docker/Docker-Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvases/DevOps-Mind-map.canvas"
+                "file": "DevOps/Docker/Docker-Resources.md"
               }
             }
           }
@@ -177,12 +184,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f31acabd931ba4e",
+  "active": "f9df3afdd7917d33",
   "lastOpenFiles": [
+    "Projects/Nginx Web Hosting.md",
+    "Projects/Voting-App.md",
+    "canvases/DevOps-Mind-map.canvas",
     "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md",
     "DevOps/Docker/Docker-Resources.md",
-    "Untitled.md",
-    "Projects/Voting-App.md",
     "DevOps/Docker/Docker-Commands.md",
     "Unsorted/Error-Journal.md",
     "attachments/Drawings/voting-app.excalidraw.md",
@@ -196,7 +204,6 @@
     "attachments",
     "DevOps/DevOps-Interview-Questions.md",
     "Untitled.canvas",
-    "canvases/DevOps-Mind-map.canvas",
     "2023-10-27.md",
     "Excalidraw/Drawing 2023-10-26 21.23.09.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.31.10.excalidraw.md",
