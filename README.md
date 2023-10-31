@@ -8,6 +8,8 @@
 + [Introduction to YAML.md](DevOps/obsidian-Notes/DevOps/Docker/Introduction-to-YAML.md)
 
 ### Projects
+
++ [Nginx Web Hosting](DevOps/obsidian-Notes/Projects/Nginx-Web-Hosting.md)
 + [Voting App](DevOps/obsidian-Notes/Projects/Voting-App.md)
 
 ### Unsorted
