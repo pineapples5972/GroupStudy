@@ -47,9 +47,11 @@
             "id": "f9df3afdd7917d33",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md"
+                "file": "Projects/Nginx Web Hosting.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md",
+                "file": "Projects/Nginx Web Hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md",
+                "file": "Projects/Nginx Web Hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Docker/Docker-Resources.md"
+                "file": "Projects/Nginx Web Hosting.md"
               }
             }
           }
@@ -186,14 +188,16 @@
   },
   "active": "f9df3afdd7917d33",
   "lastOpenFiles": [
-    "Projects/Nginx Web Hosting.md",
     "Projects/Voting-App.md",
-    "canvases/DevOps-Mind-map.canvas",
-    "Excalidraw/Drawing 2023-10-28 16.11.03.excalidraw.md",
+    "attachments/Drawings/voting-app.excalidraw.md",
+    "Pasted Image 20231031163206_199.png",
+    "Pasted Image 20231031163043_971.png",
+    "attachments/Drawings/nginx-webserver-docker.excalidraw.md",
+    "Projects/Nginx Web Hosting.md",
     "DevOps/Docker/Docker-Resources.md",
+    "canvases/DevOps-Mind-map.canvas",
     "DevOps/Docker/Docker-Commands.md",
     "Unsorted/Error-Journal.md",
-    "attachments/Drawings/voting-app.excalidraw.md",
     "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
     "DevOps/Docker/Introduction-to-YAML.md",
     "attachments/Images/Pasted image 20231028161523.png",
@@ -230,8 +234,6 @@
     "attachments/Images/Pasted image 20230928203556.png",
     "attachments/Images/Pasted image 20230928203012.png",
     "attachments/Images/Pasted image 20230928202715.png",
-    "attachments/Images/Pasted image 20230928202517.png",
-    "attachments/Images/Pasted image 20230928202248.png",
     "DevOps/~ubernet1.tmp"
   ]
 }
