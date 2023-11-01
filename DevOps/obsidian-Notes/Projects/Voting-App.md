@@ -24,7 +24,7 @@ tags:
 - navigate to voting-app directory: `cd vote`
 - docker build: `docker build . -t voting-app`
 ###### Running Only voting-app:
-- docker run: `docker run -p 5000:80 voting-app`
+- docker run: `docker run -d -p 5000:80 voting-app`
 - https://localhost:5000 
 ###### Running with Redis attached:
 - Pull Redis image: `docker pull docker.io/redis`
@@ -48,6 +48,8 @@ tags:
 #### Setup for Podman:
  %%In Podman, the ==`--link` flag is not available==. Podman provides a different approach for container networking. To replicate your project setup without the `--link` flag, you can use Podman pods and user-defined networks. Also Since we need two pods to communicate with each other we should create common network %%
  
+![[Two-pods-communicating.excalidraw]] 
+ 
  0. **Create a common network for both our pods:**
    `podman network create my-network` 
 
@@ -58,7 +60,7 @@ tags:
 ```
 podman run -d --name redis --pod my-pod redis
 podman run -d --name voting-app --pod my-pod voting-app
-podman run -d --name db -e POSTGRESS_PASSWORD=password --pod my-pod postgres:9.4
+podman run -d --name db -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres --pod my-pod -v /data:/var/lib/postgresql/data postgres
 podman run -d --name worker-app --pod my-pod worker-app 
 ```
 
@@ -83,3 +85,4 @@ CREATE USER myuser WITH PASSWORD 'mypassword';
 GRANT ALL PRIVILEGES ON DATABASE mydatabase TO myuser;
 ```
 
+Update: Even tho after successfully solving postgress error it still not seems to communicate with pod 1.

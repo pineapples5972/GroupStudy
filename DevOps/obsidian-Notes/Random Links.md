@@ -1,0 +1,4 @@
+- DevSecOps Project - https://www.youtube.com/watch?v=g8X5AoqCJHc
+- GUI EC2 Instance - https://www.youtube.com/watch?v=foCG_mH8bxk
+- Learn git GUI way - https://learngitbranching.js.org/
+- postgresql docker setup - https://www.baeldung.com/ops/postgresql-docker-setup

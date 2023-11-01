@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Nginx-Web-Hosting.md",
+                "file": "Projects/Voting-App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d90cdd5ab6c07bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Voting-App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c3b13b0001320f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Voting-App.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Nginx-Web-Hosting.md",
+                "file": "Projects/Voting-App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Nginx-Web-Hosting.md",
+                "file": "Projects/Voting-App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Nginx-Web-Hosting.md"
+                "file": "Projects/Voting-App.md"
               }
             }
           }
@@ -188,25 +212,29 @@
   },
   "active": "c0712572641cf246",
   "lastOpenFiles": [
-    "Projects/Voting-App.md",
-    "attachments/Drawings/voting-app.excalidraw.md",
-    "Pasted Image 20231031163206_199.png",
-    "Pasted Image 20231031163043_971.png",
-    "attachments/Drawings/nginx-webserver-docker.excalidraw.md",
-    "Projects/Nginx-Web-Hosting.md",
-    "DevOps/Docker/Docker-Resources.md",
-    "canvases/DevOps-Mind-map.canvas",
-    "DevOps/Docker/Docker-Commands.md",
     "Unsorted/Error-Journal.md",
-    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
-    "DevOps/Docker/Introduction-to-YAML.md",
-    "attachments/Images/Pasted image 20231028161523.png",
+    "Projects/Voting-App.md",
+    "Projects/Nginx-Web-Hosting.md",
+    "Random Links.md",
+    "attachments/Drawings/Two-pods-communicating.excalidraw.md",
+    "DevOps/Git.md",
     "Unsorted/Cron Jobs.md",
+    "DevOps/DevOps-Interview-Questions.md",
+    "DevOps/Docker/Introduction-to-YAML.md",
+    "DevOps/Docker/Docker-Resources.md",
+    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
+    "DevOps/Docker/Docker-Commands.md",
     "DevOps/Docker/test.md",
+    "attachments/Drawings/voting-app.excalidraw.md",
+    "attachments/Images/Untitled.md",
+    "attachments/Images/Pasted Image 20231031163206_199.png",
+    "attachments/Images/Pasted Image 20231031163043_971.png",
+    "attachments/Drawings/nginx-webserver-docker.excalidraw.md",
+    "canvases/DevOps-Mind-map.canvas",
+    "attachments/Images/Pasted image 20231028161523.png",
     "Excalidraw",
     "attachments/Drawings",
     "attachments",
-    "DevOps/DevOps-Interview-Questions.md",
     "Untitled.canvas",
     "2023-10-27.md",
     "Excalidraw/Drawing 2023-10-26 21.23.09.excalidraw.md",
@@ -215,16 +243,13 @@
     "Excalidraw/Drawing 2023-10-26 21.29.25.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.27.excalidraw.md",
     "Excalidraw/Drawing 2023-10-26 21.29.24.excalidraw.md",
-    "DevOps/Git.md",
     "Projects",
-    "attachments/Images/Untitled.md",
     "attachments/Images/Pasted image 20231006134325.png",
     "Unsorted",
     "DevOps/Docker",
     "DevOps/Docker Resources.md",
     "DevOps/Docker-Notes.md",
     "Notes/Untitled.md",
-    "Meta Notes/Error-Journal.md",
     "Meta-Notes",
     "canvases",
     "attachments/Images",
