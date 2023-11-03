@@ -41,6 +41,8 @@ tags:
 - run the result container: `docker run -p 5001:80 --link db:db result-app`
 - see result page at: https://localhost:5001
 
+![[Pasted image 20231103131614.png]]
+![[Pasted image 20231103131644.png]]
 
 ---
 

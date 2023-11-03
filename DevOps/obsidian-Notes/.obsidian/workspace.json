@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Voting-App.md",
+                "file": "Random Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Voting-App.md",
+                "file": "Random Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Voting-App.md",
+                "file": "Random Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Voting-App.md"
+                "file": "Random Links.md"
               }
             }
           }
@@ -210,27 +210,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0712572641cf246",
+  "active": "6c3b13b0001320f4",
   "lastOpenFiles": [
-    "Unsorted/Error-Journal.md",
+    "attachments/Images/Pasted image 20231103131614.png",
     "Projects/Voting-App.md",
-    "Projects/Nginx-Web-Hosting.md",
+    "attachments/Images/Pasted image 20231103131644.png",
+    "DevOps/Docker/Introduction-to-YAML.md",
+    "DevOps/DevOps-Interview-Questions.md",
+    "DevOps/Docker/Docker-Resources.md",
     "Random Links.md",
+    "DevOps/Docker/Docker-Commands.md",
+    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
+    "canvases/DevOps-Mind-map.canvas",
+    "Unsorted/Error-Journal.md",
+    "Projects/Nginx-Web-Hosting.md",
     "attachments/Drawings/Two-pods-communicating.excalidraw.md",
     "DevOps/Git.md",
     "Unsorted/Cron Jobs.md",
-    "DevOps/DevOps-Interview-Questions.md",
-    "DevOps/Docker/Introduction-to-YAML.md",
-    "DevOps/Docker/Docker-Resources.md",
-    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
-    "DevOps/Docker/Docker-Commands.md",
     "DevOps/Docker/test.md",
     "attachments/Drawings/voting-app.excalidraw.md",
     "attachments/Images/Untitled.md",
     "attachments/Images/Pasted Image 20231031163206_199.png",
     "attachments/Images/Pasted Image 20231031163043_971.png",
     "attachments/Drawings/nginx-webserver-docker.excalidraw.md",
-    "canvases/DevOps-Mind-map.canvas",
     "attachments/Images/Pasted image 20231028161523.png",
     "Excalidraw",
     "attachments/Drawings",
@@ -249,7 +251,6 @@
     "DevOps/Docker",
     "DevOps/Docker Resources.md",
     "DevOps/Docker-Notes.md",
-    "Notes/Untitled.md",
     "Meta-Notes",
     "canvases",
     "attachments/Images",
@@ -257,8 +258,6 @@
     "attachments/Images/Pasted image 20230928203831.png",
     "attachments/Images/Pasted image 20230928203641.png",
     "attachments/Images/Pasted image 20230928203556.png",
-    "attachments/Images/Pasted image 20230928203012.png",
-    "attachments/Images/Pasted image 20230928202715.png",
     "DevOps/~ubernet1.tmp"
   ]
 }
