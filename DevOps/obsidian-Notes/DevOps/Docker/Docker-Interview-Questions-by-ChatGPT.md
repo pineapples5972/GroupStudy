@@ -7,7 +7,8 @@ tags:
   - devops
   - docker
 ---
-These are #docker_interview_questions by chatgpt for more refer: [[DevOps Interview Questions]]
+![[Pasted image 20231006134325.png]]
+These are #docker_interview_questions by chatgpt for more refer: [[DevOps-Interview-Questions]]
 
 1. **What is DevOps, and what are its key principles?**
 Answer: DevOps is a set of practices and cultural philosophies that aim to improve collaboration

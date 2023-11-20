@@ -14,7 +14,6 @@ kanban-plugin: basic
 - [ ] [Docker Labs](https://kodekloud.com/topic/labs-basic-docker-commands-beta-3/)
 - [ ] https://devdocs.io/
 - [ ] https://github.com/rohitg00/DevOpsCommunity
-- [ ] https://www.youtube.com/watch?v=NWONeJKn6kc
 
 
 ## YT RESOURCE
@@ -23,6 +22,8 @@ kanban-plugin: basic
 - [ ] [technical guftgu](https://www.youtube.com/watch?v=eX3ZimWWHh4&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10)
 - [ ] [Kubernetes](https://www.youtube.com/watch?v=PN3VqbZqmD8)
 - [ ] [Fireship - Learn Docker in 7 steps](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [ ] https://www.youtube.com/watch?v=NWONeJKn6kc
+- [ ] https://www.youtube.com/watch?v=B_X4l4HSgtc&pp=ygUca3ViZXJuZXRlcyBjbHVzdGVycyBoYXJkd2FyZQ%3D%3D
 
 
 ## Job Links

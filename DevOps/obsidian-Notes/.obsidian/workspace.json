@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4679524b34d1b8b0",
+        "id": "4867dfe75bb0f155",
         "type": "tabs",
         "children": [
           {
-            "id": "2ea4f08832cfa97b",
+            "id": "90c47ac7a1013d32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Voting-App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40eefa28c7966763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Voting-App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f31acabd931ba4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Voting-App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9df3afdd7917d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Voting-App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d90cdd5ab6c07bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Voting-App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c3b13b0001320f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Links.md",
+                "file": "DevOps/Kubernetes/Kubernetes Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "299d1d0941d85a6c",
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Links.md",
+                "file": "DevOps/Kubernetes/Kubernetes Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Links.md",
+                "file": "DevOps/Kubernetes/Kubernetes Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Links.md"
+                "file": "DevOps/Kubernetes/Kubernetes Concepts.md"
               }
             }
           }
@@ -210,54 +149,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c3b13b0001320f4",
+  "active": "90c47ac7a1013d32",
   "lastOpenFiles": [
-    "attachments/Images/Pasted image 20231103131614.png",
-    "Projects/Voting-App.md",
-    "attachments/Images/Pasted image 20231103131644.png",
-    "DevOps/Docker/Introduction-to-YAML.md",
-    "DevOps/DevOps-Interview-Questions.md",
-    "DevOps/Docker/Docker-Resources.md",
-    "Random Links.md",
-    "DevOps/Docker/Docker-Commands.md",
-    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
-    "canvases/DevOps-Mind-map.canvas",
-    "Unsorted/Error-Journal.md",
-    "Projects/Nginx-Web-Hosting.md",
-    "attachments/Drawings/Two-pods-communicating.excalidraw.md",
-    "DevOps/Git.md",
-    "Unsorted/Cron Jobs.md",
-    "DevOps/Docker/test.md",
     "attachments/Drawings/voting-app.excalidraw.md",
-    "attachments/Images/Untitled.md",
-    "attachments/Images/Pasted Image 20231031163206_199.png",
-    "attachments/Images/Pasted Image 20231031163043_971.png",
+    "attachments/Drawings/docker-cluster.excalidraw.md",
+    "DevOps/Kubernetes/Kubernetes Concepts.md",
+    "attachments/Drawings/Two-pods-communicating.excalidraw.md",
     "attachments/Drawings/nginx-webserver-docker.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-16 11.49.52.excalidraw.md",
+    "DevOps/Kubernetes/Kubernetes Commands.md",
+    "DevOps/Docker/Docker-Resources.md",
+    "DevOps/Docker/Introduction-to-YAML.md",
+    "canvases/DevOps-Mind-map.canvas",
+    "DevOps/DevOps-Interview-Questions.md",
+    "DevOps/Kubernetes",
+    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
+    "DevOps/Docker/Docker-Commands.md",
+    "Projects/Nginx-Web-Hosting.md",
+    "Projects/Voting-App.md",
+    "Dashboard.md",
+    "Excalidraw/Drawing 2023-11-05 19.28.49.excalidraw.md",
+    "idsfsd.md",
+    "Pasted image 20231103190751.png",
+    "Unsorted/Error-Journal.md",
+    "Unsorted/Random Links.md",
+    "Unsorted/Cron Jobs.md",
+    "2023-11-03.md",
+    "attachments/Images/Pasted image 20231006134325.png",
+    "Unsorted/Pasted Image 20231031163043_971.png",
+    "attachments/Images/Pasted Image 20231031163206_199.png",
+    "Unsorted/Pasted image 20230928203641.png",
+    "DevOps Interview Questions.md",
+    "Excalidraw/Drawing 2023-11-03 17.07.03.excalidraw.md",
+    "attachments/Images/Pasted image 20231103131614.png",
+    "attachments/Images/Pasted image 20231103131644.png",
+    "DevOps/Git.md",
+    "DevOps/Docker/test.md",
+    "attachments/Images/Untitled.md",
     "attachments/Images/Pasted image 20231028161523.png",
     "Excalidraw",
     "attachments/Drawings",
     "attachments",
     "Untitled.canvas",
-    "2023-10-27.md",
-    "Excalidraw/Drawing 2023-10-26 21.23.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-26 21.31.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-26 21.30.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-26 21.29.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-26 21.29.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-26 21.29.24.excalidraw.md",
     "Projects",
-    "attachments/Images/Pasted image 20231006134325.png",
     "Unsorted",
     "DevOps/Docker",
-    "DevOps/Docker Resources.md",
-    "DevOps/Docker-Notes.md",
     "Meta-Notes",
     "canvases",
     "attachments/Images",
     "attachments/Images/Pasted image 20230928204047.png",
-    "attachments/Images/Pasted image 20230928203831.png",
-    "attachments/Images/Pasted image 20230928203641.png",
-    "attachments/Images/Pasted image 20230928203556.png",
-    "DevOps/~ubernet1.tmp"
+    "attachments/Images/Pasted image 20230928203831.png"
   ]
 }
