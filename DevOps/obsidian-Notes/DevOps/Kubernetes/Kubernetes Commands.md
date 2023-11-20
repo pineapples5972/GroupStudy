@@ -1,0 +1,4 @@
+- list nodes - `kubectl get nodes`
+- see version - `kubectl version`
+- run a pod - `kubectl run nginx --image=nginx`
+- list pods - `kubectl get pods`
