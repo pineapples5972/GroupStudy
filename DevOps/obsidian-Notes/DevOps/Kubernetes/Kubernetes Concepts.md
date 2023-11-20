@@ -33,8 +33,6 @@ metadata:
 	labels:
 		app: nginx
 		tier: frontend
-		
-
 spec:
 	containers:
 	- name: nginx
