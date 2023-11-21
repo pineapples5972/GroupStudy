@@ -17,3 +17,13 @@
 - describe replicaset - `kubectl describe replicaset`
 - update the settings of replicaset by editing the yaml file - `kubectl replace -f replicaset-definition.yaml`
 - scale replicas to 6 - `kubectl scale --replicas=6 -f replicaset-definition.yml` or can do with name `kubectl scale --replicas=6 replicaset myapp-replicaset` but recommended method is with yaml file 
+
+#### Deployment Commands
+
+- create deployment - `kubectl create deployment my-deployment --image=nginx:latest`
+- create deployment with yaml file - `kubectl create -f deployment-definition.yml`
+- list deployment - `kubectl get deployments`
+- scale deployment - `kubectl scale deployment my-deployment --replicas=5`
+- get information of deployment - `kubectl get deployment my-deployment`
+- describe deployment - `kubectl describe deployment my-deployment`
+- delete a deployment - `kubectl delete deployment my-deployment`
