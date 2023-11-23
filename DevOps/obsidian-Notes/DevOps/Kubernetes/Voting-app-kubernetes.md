@@ -392,4 +392,3 @@ scale deployment
 `kubectl scale deployment voting-app-deploy --replicas=3`
 
 `kubectl get deployments voting-app-deploy`
-
