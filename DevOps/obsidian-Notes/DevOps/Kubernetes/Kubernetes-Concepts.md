@@ -1,8 +1,13 @@
 Kubernetes can use to deploy more than one instance of containers using its cli.
+References: 
+1. Video - https://www.youtube.com/watch?v=XuSQU5Grv1g
+2. Labs - [https://kode.wiki/kubernetes-labs](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbWRsNE51Z3JzdG15TW5PVWxzYVJpMTk2SVA4QXxBQ3Jtc0ttRHIyRGVFOVo0akZHZDJfdVpzdkZqWXp1aDdFdndoOGJEdW1GVENVQ1hVZFprb1hkOUYyYlZBa18yR2xPOE5MVEk1SGJNbHc0eW1fdHZrM3ZrbVJfcWU1R3ZfN19Ya1RNdWlPbXdEUWhWUWZZQ2R1dw&q=https%3A%2F%2Fkode.wiki%2Fkubernetes-labs&stzid=UgwXXi0UO6e8w1nN92t4AaABAg)
+3. Challenges - https://kodekloud.com/courses/kubernetes-challenges/
 
 
 ![[docker-cluster.excalidraw]]
-https://www.youtube.com/watch?v=XuSQU5Grv1g
+
+
 
 | Kind | Version |
 | --- | --- |
@@ -10,11 +15,10 @@ https://www.youtube.com/watch?v=XuSQU5Grv1g
 | Service | v1 |
 | ReplicaSet | apps/v1 |
 | Deployment | apps/v1 | 
-
 for more `kubectl api-resources`
 
-==pod-definition.yml==
-``` 
+pod-definition.yml
+```yml
 apiVersion: v1
 kind: Pod
 metadata: 
@@ -26,8 +30,8 @@ metadata:
 spec:
 ```
 
-==pod.yml==
-```
+pod.yml
+```yml
 apiVersion: v1
 kind: Pod
 metadata: 
@@ -35,6 +39,8 @@ metadata:
 	labels:
 		app: nginx
 		tier: frontend
+		
+
 spec:
 	containers:
 	- name: nginx
@@ -56,7 +62,7 @@ To create replicasets we use ==replicaset-definition.yml== file and defined the 
 like in this example:
 
 ==replicaset-definition.yml==
-```
+```yml
 apiVersion: apps/v1
 kind: ReplicaSet
 metadata:
@@ -110,7 +116,7 @@ Deployments should be used in the following cases:
 
 we can use yaml file to create deployments:
 ==deployment-definition.yml==
-```
+```yml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -195,6 +201,4 @@ To create service by applying definition file -
 ```sh
 kubectl apply -f service-definition-1.yaml
 ```
-
-
 
