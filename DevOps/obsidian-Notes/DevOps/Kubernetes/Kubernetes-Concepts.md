@@ -146,4 +146,55 @@ for example the following command creates a deployment named `my-deployment` tha
 
 This command will create three pods, each running the `nginx` container image. The deployment will also manage the lifecycle of these pods, ensuring that there are always three pods running, even if one or more of the pods fail.
 
+### Services
+Services in kubernetes are abstraction layer that provide means to communicate between pods.
+
+In Kubernetes, a Service is a method for exposing a network application that is running as one or more [Pods](https://kubernetes.io/docs/concepts/workloads/pods/) in your cluster.
+
+default ClusterIP type service
+==service-definition.yml==
+```yml
+apiVersion: v1
+kind: Service
+metadata:
+	name: redis-db
+spec:
+	type: ClusterIP
+	ports:
+		- targetPort: 6379
+		  port: 6379
+	
+	selector
+		app: myapp
+		name: redis-pod
+```
+
+example service-definition file for simple webserver:
+==service-definition.yml==
+
+```yml
+apiVersion: v1
+kind: Service
+metadata:
+	name: web-service
+
+spec:
+	type: NodePort
+	ports:
+		- targetPort: 80
+		  port: 80
+		  nodePort: 3000
+		  
+	selector:
+		  app: myapp
+		  type: front-end
+		  
+```
+
+To create service by applying definition file - 
+```sh
+kubectl apply -f service-definition-1.yaml
+```
+
+
 
