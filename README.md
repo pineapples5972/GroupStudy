@@ -8,6 +8,8 @@
 + [Introduction to YAML.md](DevOps/obsidian-Notes/DevOps/Docker/Introduction-to-YAML.md)
 
 ### Kubernetes
++ [Installing Kubernetes](DevOps/obsidian-Notes/DevOps/Kubernetes/Installing-Kubernetes.md)
++ [Voting app kubernetes](DevOps/obsidian-Notes/DevOps/Kubernetes/Voting-app-kubernetes.md)
 + [Kubernetes Concepts](DevOps/obsidian-Notes/DevOps/Kubernetes/Kubernetes-Concepts.md)
 + [Kubernetes Commands](DevOps/obsidian-Notes/DevOps/Kubernetes/Kubernetes-Commands.md)
 
