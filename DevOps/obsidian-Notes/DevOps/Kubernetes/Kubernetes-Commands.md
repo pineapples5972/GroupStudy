@@ -27,3 +27,9 @@
 - get information of deployment - `kubectl get deployment my-deployment`
 - describe deployment - `kubectl describe deployment my-deployment`
 - delete a deployment - `kubectl delete deployment my-deployment`
+
+#### Service Commands
+- list a service - `kubectl get services`
+- create a service - `kubectl -f service-definition.yml`
+- describe a service - `kubectl describe service service-name`
+- delete a service - `kubectl delete service service-name`
