@@ -1,6 +1,6 @@
-- Install kubectl utillity
-- Install a hyperviser such as kvm, quemu or virtualbox
-- Install minicube
+- [ ] Install kubectl utillity
+- [ ] Install a hyperviser such as kvm, quemu or virtualbox
+- [ ] Install minicube
 
 start minikube
 `minikube start --driver=virtualbox`
