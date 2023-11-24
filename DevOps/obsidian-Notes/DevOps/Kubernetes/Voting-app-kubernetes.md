@@ -21,8 +21,8 @@ spec:
 ```
 
 ==result-app-pod.yaml==
-```
 
+```
 apiVersion: v1
 kind: Pod
 metadata:
