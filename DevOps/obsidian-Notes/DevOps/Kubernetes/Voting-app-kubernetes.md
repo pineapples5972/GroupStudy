@@ -3,7 +3,7 @@
 ![[Pasted image 20231123193531.png]]
 
 ==voting-app-pod.yaml==
-``` yml
+```
 apiVersion: v1
 kind: Pod
 metadata:
