@@ -21,7 +21,7 @@ spec:
 ```
 
 ==result-app-pod.yaml==
-``` yml
+```
 
 apiVersion: v1
 kind: Pod
@@ -41,7 +41,7 @@ spec:
 
 ==redis-pod.yaml==
 
-``` yml
+```
 apiVersion: v1
 kind: Pod
 metadata:
@@ -60,7 +60,7 @@ spec:
   
 ==postgres-pod.yaml==
 
-``` yml
+```
 apiVersion: v1
 kind: Pod
 metadata:
@@ -84,7 +84,7 @@ spec:
 
 ==workerapp-pod.yaml==
 
-``` yml
+```
 apiVersion: v1
 kind: Pod
 metadata:
@@ -101,7 +101,7 @@ spec:
 
 ==redis-service.yaml==
 
-``` yml
+```
 apiVersion: v1
 kind: Service
 metadata:
@@ -120,7 +120,7 @@ spec:
 
 ==postgres-service.yml==
 
-``` yml
+```
 apiVersion: v1
 kind: Service
 metadata:
@@ -140,7 +140,7 @@ spec:
 
 ==voting-app-service.yml==
 
-``` yml
+```
 apiVersion: v1
 kind: Service
 metadata:
@@ -161,7 +161,7 @@ spec:
 ```
 
 ==result-app-service.yaml==
-``` yml
+```
 apiVersion: v1
 kind: Service
 metadata:
@@ -207,7 +207,7 @@ get url of service
 
 ==voting-app-deploy.yml==
 
-``` yml
+```
 apiVerson: v1
 kind: Deployment
 metadata:
@@ -239,7 +239,7 @@ spec:
 
 ==redis-deploy.yml==
 
-``` yml
+```
 apiVerson: v1
 kind: Deployment
 metadata:
@@ -270,7 +270,7 @@ spec:
 
 ==postgres-deploy.yml==
 
-``` yml
+```
 
 apiVerson: v1
 kind: Deployment
@@ -308,7 +308,7 @@ spec:
 
 ==worker-app-deploy.yml==
 
-``` yml
+```
 
 apiVerson: v1
 kind: Deployment
@@ -338,7 +338,7 @@ spec:
 
 ==result-app-deploy.yml==
 
-``` yml
+```
 apiVerson: v1
 kind: Deployment
 metadata:
