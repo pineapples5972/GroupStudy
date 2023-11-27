@@ -23,9 +23,11 @@
             "id": "691e68546027d6f4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Images/Pasted image 20230928202248.png"
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Images/Pasted image 20230928202248.png",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Images/Pasted image 20230928202248.png",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Images/Pasted image 20230928202248.png"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -162,6 +164,7 @@
   },
   "active": "691e68546027d6f4",
   "lastOpenFiles": [
+    "attachments/Images/Pasted image 20230928202248.png",
     "attachments/Images/Pasted image 20230928201832.png",
     "attachments/Drawings/Drawing 2023-11-16 11.49.52.excalidraw.md",
     "attachments/Images/kubernetes-example-voting-app.png",
@@ -199,7 +202,6 @@
     "Unsorted/Pasted image 20230928203641.png",
     "attachments/Images/Pasted image 20231103131614.png",
     "attachments/Images/Pasted image 20231103131644.png",
-    "attachments/Images/Pasted image 20231028161523.png",
     "Excalidraw",
     "attachments/Drawings",
     "attachments",
