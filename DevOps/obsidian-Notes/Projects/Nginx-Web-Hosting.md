@@ -65,4 +65,8 @@ If you see your changes took place and everything working well good job!
 ##### References: 
 1. https://www.youtube.com/watch?v=JKxlsvZXG7c
 2. https://dev.to/kutsyk/manage-nginx-configurations-inside-docker-container-9da
+<<<<<<< HEAD
 3. https://www.youtube.com/watch?v=7VAI73roXaY
+=======
+3. https://www.youtube.com/watch?v=7VAI73roXaY
+>>>>>>> 8a2c9766cb7482f9df4a86fc1bd4b5cb789b3dc1

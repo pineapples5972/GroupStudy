@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90c47ac7a1013d32",
+            "id": "76be8ac85c663c02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Kubernetes/Kubernetes Concepts.md",
+                "file": "DevOps/Kubernetes/Voting-app-kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "691e68546027d6f4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Images/Pasted image 20230928202248.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 200
   },
   "right": {
     "id": "299d1d0941d85a6c",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Kubernetes/Kubernetes Concepts.md",
+                "file": "attachments/Images/Pasted image 20230928202248.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Kubernetes/Kubernetes Concepts.md",
+                "file": "attachments/Images/Pasted image 20230928202248.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Kubernetes/Kubernetes Concepts.md"
+                "file": "attachments/Images/Pasted image 20230928202248.png"
               }
             }
           }
@@ -149,25 +160,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90c47ac7a1013d32",
+  "active": "691e68546027d6f4",
   "lastOpenFiles": [
+    "attachments/Images/Pasted image 20230928201832.png",
+    "attachments/Drawings/Drawing 2023-11-16 11.49.52.excalidraw.md",
+    "attachments/Images/kubernetes-example-voting-app.png",
+    "attachments/Images/example-voting-app.png",
     "attachments/Drawings/voting-app.excalidraw.md",
+    "Dashboard.md",
+    "DevOps/Docker/Docker-Resources.md",
+    "DevOps/Docker/Docker-Commands.md",
+    "Docker Resources.md",
+    "DevOps/Kubernetes/Kubernetes-Concepts.md",
+    "DevOps/Docker/Introduction-to-YAML.md",
+    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
+    "DevOps/Kubernetes/Kubernetes-Commands.md",
+    "DevOps/Kubernetes/Voting-app-kubernetes.md",
+    "DevOps/Kubernetes/Installing-Kubernetes.md",
+    "Excalidraw/Drawing 2023-11-20 12.05.56.excalidraw.md",
     "attachments/Drawings/docker-cluster.excalidraw.md",
-    "DevOps/Kubernetes/Kubernetes Concepts.md",
     "attachments/Drawings/Two-pods-communicating.excalidraw.md",
     "attachments/Drawings/nginx-webserver-docker.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-16 11.49.52.excalidraw.md",
-    "DevOps/Kubernetes/Kubernetes Commands.md",
-    "DevOps/Docker/Docker-Resources.md",
-    "DevOps/Docker/Introduction-to-YAML.md",
     "canvases/DevOps-Mind-map.canvas",
     "DevOps/DevOps-Interview-Questions.md",
     "DevOps/Kubernetes",
-    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
-    "DevOps/Docker/Docker-Commands.md",
     "Projects/Nginx-Web-Hosting.md",
     "Projects/Voting-App.md",
-    "Dashboard.md",
     "Excalidraw/Drawing 2023-11-05 19.28.49.excalidraw.md",
     "idsfsd.md",
     "Pasted image 20231103190751.png",
@@ -179,13 +197,8 @@
     "Unsorted/Pasted Image 20231031163043_971.png",
     "attachments/Images/Pasted Image 20231031163206_199.png",
     "Unsorted/Pasted image 20230928203641.png",
-    "DevOps Interview Questions.md",
-    "Excalidraw/Drawing 2023-11-03 17.07.03.excalidraw.md",
     "attachments/Images/Pasted image 20231103131614.png",
     "attachments/Images/Pasted image 20231103131644.png",
-    "DevOps/Git.md",
-    "DevOps/Docker/test.md",
-    "attachments/Images/Untitled.md",
     "attachments/Images/Pasted image 20231028161523.png",
     "Excalidraw",
     "attachments/Drawings",
@@ -196,8 +209,6 @@
     "DevOps/Docker",
     "Meta-Notes",
     "canvases",
-    "attachments/Images",
-    "attachments/Images/Pasted image 20230928204047.png",
-    "attachments/Images/Pasted image 20230928203831.png"
+    "attachments/Images"
   ]
 }

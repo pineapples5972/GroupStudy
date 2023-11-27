@@ -20,10 +20,11 @@ kanban-plugin: basic
 
 - [ ] [tech with nana](https://tkssharma-devops.gitbook.io/devops-training/)
 - [ ] [technical guftgu](https://www.youtube.com/watch?v=eX3ZimWWHh4&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10)
-- [ ] [Kubernetes](https://www.youtube.com/watch?v=PN3VqbZqmD8)
+- [ ] [Kubernetes 101 - Saiyam Pathak](https://www.youtube.com/watch?v=PN3VqbZqmD8)
 - [ ] [Fireship - Learn Docker in 7 steps](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - [ ] https://www.youtube.com/watch?v=NWONeJKn6kc
 - [ ] https://www.youtube.com/watch?v=B_X4l4HSgtc&pp=ygUca3ViZXJuZXRlcyBjbHVzdGVycyBoYXJkd2FyZQ%3D%3D
+- [ ] [5 ways to devopsify your app - Fireship github actions tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8)
 
 
 ## Job Links

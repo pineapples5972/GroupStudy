@@ -5,8 +5,8 @@ tags:
   - docker
 ---
 ### Docker Dashboard
-- [[Docker Resources]]
-- [[DevOps Interview Questions]]
+- [[Docker-Resources]]
+- [[DevOps-Interview-Questions]]
 ## Basics
 #### What is container?
 - its layers of images
