@@ -25,6 +25,10 @@ kanban-plugin: basic
 - [ ] [Fireship - Learn Docker in 7 steps](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - [ ] [Learn Terraform in 60 Minutes](https://www.youtube.com/watch?v=XgwV2HnBSws)
 
+## Resume resource
+- [ ] [Overleaf](https://www.overleaf.com/)
+- [ ] [NovoResume](https://rxresu.me/)
+
 
 ## Job Links
 
