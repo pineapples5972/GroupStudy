@@ -23,6 +23,7 @@ kanban-plugin: basic
 - [ ] [technical guftgu](https://www.youtube.com/watch?v=eX3ZimWWHh4&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10)
 - [ ] [Kubernetes](https://www.youtube.com/watch?v=PN3VqbZqmD8)
 - [ ] [Fireship - Learn Docker in 7 steps](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [ ] [Learn Terraform in 60 Minutes](https://www.youtube.com/watch?v=XgwV2HnBSws)
 
 
 ## Job Links
