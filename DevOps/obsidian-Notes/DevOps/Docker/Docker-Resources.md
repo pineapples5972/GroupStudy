@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] [Docker Labs](https://kodekloud.com/topic/labs-basic-docker-commands-beta-3/)
 - [ ] [Devdocs](https://devdocs.io/)
 - [ ] [Devops resources by Rohit.G](https://github.com/rohitg00/DevOpsCommunity)
+- [ ] [All DevOps days + projects](https://medium.com/@saurabhdahibhate50)
 
 
 ## YT RESOURCE
