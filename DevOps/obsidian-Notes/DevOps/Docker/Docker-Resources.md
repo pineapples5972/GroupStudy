@@ -8,13 +8,12 @@ kanban-plugin: basic
 
 - [ ] [DevOps Training Gitbook](https://tkssharma-devops.gitbook.io/devops-training/)
 - [ ] [RoadMap - by Tanya Rajhans](https://whimsical.com/devops-roadmap-by-tanya-rajhans-Gzg5CcLQgAV8oUDbtdMXbk)
-- [ ] https://roadmap.sh/devops
-- [ ] https://medium.com/@12rashic
-- [ ] https://kodekloud.com/topic/basic-docker-commands/
+- [ ] [Roadmap](https://roadmap.sh/devops)
+- [ ] [Medium- Rashi.C](https://medium.com/@12rashic)
+- [ ] [Docker commands kodekloud](https://kodekloud.com/topic/basic-docker-commands/)
 - [ ] [Docker Labs](https://kodekloud.com/topic/labs-basic-docker-commands-beta-3/)
-- [ ] https://devdocs.io/
-- [ ] https://github.com/rohitg00/DevOpsCommunity
-- [ ] https://www.youtube.com/watch?v=NWONeJKn6kc
+- [ ] [Devdocs](https://devdocs.io/)
+- [ ] [Devops resources by Rohit.G](https://github.com/rohitg00/DevOpsCommunity)
 
 
 ## YT RESOURCE
@@ -26,15 +25,15 @@ kanban-plugin: basic
 - [ ] [Learn Terraform in 60 Minutes](https://www.youtube.com/watch?v=XgwV2HnBSws)
 
 ## Resume resource
-- [ ] [Overleaf](https://www.overleaf.com/)
-- [ ] [NovoResume](https://rxresu.me/)
+- [ ] [Overleaf - Latex based](https://www.overleaf.com/)
+- [ ] [Reactive resume - open source resume builder](https://rxresu.me/)
 
 
 ## Job Links
 
 - [ ] https://www.remoterocketship.com/
 - [ ] https://37signals.com/
-- [ ] https://github.com/hugo53/awesome-RemoteWork
+- [ ] [Remote Work websites](https://github.com/hugo53/awesome-RemoteWork)
 
 
 ## Hands On Projects
