@@ -8,33 +8,34 @@ kanban-plugin: basic
 
 - [ ] [DevOps Training Gitbook](https://tkssharma-devops.gitbook.io/devops-training/)
 - [ ] [RoadMap - by Tanya Rajhans](https://whimsical.com/devops-roadmap-by-tanya-rajhans-Gzg5CcLQgAV8oUDbtdMXbk)
-- [ ] [Roadmap](https://roadmap.sh/devops)
-- [ ] [Medium- Rashi.C](https://medium.com/@12rashic)
-- [ ] [Docker commands kodekloud](https://kodekloud.com/topic/basic-docker-commands/)
+- [ ] https://roadmap.sh/devops
+- [ ] https://medium.com/@12rashic
+- [ ] https://kodekloud.com/topic/basic-docker-commands/
 - [ ] [Docker Labs](https://kodekloud.com/topic/labs-basic-docker-commands-beta-3/)
-- [ ] [Devdocs](https://devdocs.io/)
-- [ ] [Devops resources by Rohit.G](https://github.com/rohitg00/DevOpsCommunity)
-- [ ] [All DevOps days + projects](https://medium.com/@saurabhdahibhate50)
+- [ ] https://devdocs.io/
+- [ ] https://github.com/rohitg00/DevOpsCommunity
 
 
 ## YT RESOURCE
 
 - [ ] [tech with nana](https://tkssharma-devops.gitbook.io/devops-training/)
 - [ ] [technical guftgu](https://www.youtube.com/watch?v=eX3ZimWWHh4&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10)
-- [ ] [Kubernetes](https://www.youtube.com/watch?v=PN3VqbZqmD8)
+- [ ] [Kubernetes 101 - Saiyam Pathak](https://www.youtube.com/watch?v=PN3VqbZqmD8)
 - [ ] [Fireship - Learn Docker in 7 steps](https://www.youtube.com/watch?v=gAkwW2tuIqE)
-- [ ] [Learn Terraform in 60 Minutes](https://www.youtube.com/watch?v=XgwV2HnBSws)
-
-## Resume resource
-- [ ] [Overleaf - Latex based](https://www.overleaf.com/)
-- [ ] [Reactive resume - open source resume builder](https://rxresu.me/)
+- [ ] https://www.youtube.com/watch?v=NWONeJKn6kc
+- [ ] https://www.youtube.com/watch?v=B_X4l4HSgtc&pp=ygUca3ViZXJuZXRlcyBjbHVzdGVycyBoYXJkd2FyZQ%3D%3D
+- [ ] [5 ways to devopsify your app - Fireship github actions tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8)
+- [ ] [Linux Fundamentals AWS DevOps Training](https://www.youtube.com/watch?v=QZv9eQvr15I)
+- [ ] [Best Games to Teach you Code](https://www.youtube.com/watch?v=A8SythA_P_U)
+- [ ] [DevOps Course for beginners from Freecodecamp.org](https://youtu.be/j5Zsa_eOXeY)
 
 
 ## Job Links
 
 - [ ] https://www.remoterocketship.com/
 - [ ] https://37signals.com/
-- [ ] [Remote Work websites](https://github.com/hugo53/awesome-RemoteWork)
+- [ ] https://github.com/hugo53/awesome-RemoteWork
+- [ ] [Cybersecurity FREE INTERNSHIP](https://docs.google.com/forms/d/e/1FAIpQLSdddr_JaCY6zRFfm2dVMDm2tFmW1q3l-Oo5S2zoNeUKDV_CRw/viewform)
 
 
 ## Hands On Projects
