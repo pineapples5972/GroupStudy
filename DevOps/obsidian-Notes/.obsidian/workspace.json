@@ -1,52 +1,64 @@
 {
   "main": {
-    "id": "7c21dd8138ce83a4",
+    "id": "ccf9b23e5b315a09",
     "type": "split",
     "children": [
       {
-        "id": "4867dfe75bb0f155",
+        "id": "72f7566e745466db",
         "type": "tabs",
         "children": [
           {
-            "id": "76be8ac85c663c02",
+            "id": "85625bfd60e604aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Kubernetes/Voting-app-kubernetes.md",
+                "file": "DevOps/DevOps-Interview-Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "691e68546027d6f4",
+            "id": "0b3528b9fa880457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "TCS DevOps Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "618483c0941ae067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "34778d50bd5d4424",
+    "id": "609f4e8677246efa",
     "type": "split",
     "children": [
       {
-        "id": "05bcd74a3a35f205",
+        "id": "9b9c00f8589f1a63",
         "type": "tabs",
         "children": [
           {
-            "id": "c0712572641cf246",
+            "id": "25a56aa36526bda8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,13 +68,13 @@
             }
           },
           {
-            "id": "d755beb7d7bfd2c2",
+            "id": "4da1cebae74293a2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -71,7 +83,7 @@
             }
           },
           {
-            "id": "beff4a79ed037459",
+            "id": "f2d40ba814b0b79c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "299d1d0941d85a6c",
+    "id": "17f1bcc9771965b7",
     "type": "split",
     "children": [
       {
-        "id": "5339b098d2bfd0b9",
+        "id": "7720477247f0f254",
         "type": "tabs",
         "children": [
           {
-            "id": "f9061ce56920322b",
+            "id": "96e60dbca67ca5c3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "DevOps-Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,19 @@
             }
           },
           {
-            "id": "b7dd6f7d5e14e6ff",
+            "id": "8d88b4dd26aecec5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevOps-Concepts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c785db2d9a121422",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,96 +145,51 @@
             }
           },
           {
-            "id": "f128189f0cd22a3f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Dashboard.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "387190ab800f9fd3",
+            "id": "34cc78c7a1903f4a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "DevOps-Concepts.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "691e68546027d6f4",
+  "active": "25a56aa36526bda8",
   "lastOpenFiles": [
-    "attachments/Images/Pasted image 20230928202248.png",
-    "attachments/Images/Pasted image 20230928201832.png",
-    "attachments/Drawings/Drawing 2023-11-16 11.49.52.excalidraw.md",
-    "attachments/Images/kubernetes-example-voting-app.png",
-    "attachments/Images/example-voting-app.png",
-    "attachments/Drawings/voting-app.excalidraw.md",
-    "Dashboard.md",
-    "DevOps/Docker/Docker-Resources.md",
-    "DevOps/Docker/Docker-Commands.md",
-    "Docker Resources.md",
-    "DevOps/Kubernetes/Kubernetes-Concepts.md",
-    "DevOps/Docker/Introduction-to-YAML.md",
-    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
-    "DevOps/Kubernetes/Kubernetes-Commands.md",
-    "DevOps/Kubernetes/Voting-app-kubernetes.md",
-    "DevOps/Kubernetes/Installing-Kubernetes.md",
-    "Excalidraw/Drawing 2023-11-20 12.05.56.excalidraw.md",
-    "attachments/Drawings/docker-cluster.excalidraw.md",
-    "attachments/Drawings/Two-pods-communicating.excalidraw.md",
-    "attachments/Drawings/nginx-webserver-docker.excalidraw.md",
-    "canvases/DevOps-Mind-map.canvas",
-    "DevOps/DevOps-Interview-Questions.md",
-    "DevOps/Kubernetes",
+    "TCS DevOps Interview Questions.md",
     "Projects/Nginx-Web-Hosting.md",
     "Projects/Voting-App.md",
-    "Excalidraw/Drawing 2023-11-05 19.28.49.excalidraw.md",
-    "idsfsd.md",
-    "Pasted image 20231103190751.png",
+    "Projects/Yt-local.md",
     "Unsorted/Error-Journal.md",
-    "Unsorted/Random Links.md",
-    "Unsorted/Cron Jobs.md",
-    "2023-11-03.md",
-    "attachments/Images/Pasted image 20231006134325.png",
-    "Unsorted/Pasted Image 20231031163043_971.png",
-    "attachments/Images/Pasted Image 20231031163206_199.png",
-    "Unsorted/Pasted image 20230928203641.png",
-    "attachments/Images/Pasted image 20231103131614.png",
-    "attachments/Images/Pasted image 20231103131644.png",
-    "Excalidraw",
-    "attachments/Drawings",
-    "attachments",
-    "Untitled.canvas",
-    "Projects",
-    "Unsorted",
-    "DevOps/Docker",
-    "Meta-Notes",
-    "canvases",
-    "attachments/Images"
+    "Dashboard.md",
+    "Unsorted/Random-Links.md",
+    "DevOps/Resources-and-Links.md",
+    "DevOps/DevOps-Interview-Questions.md",
+    "attachments/Images/Pasted image 20231202161526.png",
+    "DevOps/Docker/Docker-Commands.md",
+    "DevOps/Terraform/Terraform-Concepts.md",
+    "DevOps-Concepts.md",
+    "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
+    "DevOps/Docker/Untitled",
+    "canvases/DevOps-Mind-map.canvas"
   ]
 }
