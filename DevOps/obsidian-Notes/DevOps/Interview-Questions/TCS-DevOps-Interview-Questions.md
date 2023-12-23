@@ -6,11 +6,10 @@
 - Describe the difference between `driver.close()` and `driver.quit()`?
 - How will you secure Jenkins?
 - Can you write the syntax for building a docker image?
-- **What is the concept of sudo in Linux?**
-- **What is Nagios Log Server?**
-- **What Are The Benefits Of The Nosql?**
-- **What Are Adoptions Of Devops In Industry.**
-- **How Would You Explain The Concept Of "infrastructure As Code" (iac)?**
-- **How Is Chef Used As A Cm Tool?**
-- **Why Are Configuration Management Processes And Tools Important?**
-- 
+- What is the concept of sudo in Linux?
+- What is Nagios Log Server?
+- What Are The Benefits Of The Nosql?
+- What Are Adoptions Of Devops In Industry.
+- How Would You Explain The Concept Of "infrastructure As Code" (iac)?
+- How Is Chef Used As A Cm Tool?
+- Why Are Configuration Management Processes And Tools Important?
