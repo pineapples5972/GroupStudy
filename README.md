@@ -28,10 +28,10 @@
   + [TCS DevOps Interview Questions](DevOps/obsidian-Notes/DevOps/TCS-DevOps-Interview-Questions.md)
     
 ### Unsorted
-+ [Error Journal](DevOps/obsidian-Notes/Unsorted/Error-Journal.md)
+  + [Error Journal](DevOps/obsidian-Notes/Unsorted/Error-Journal.md)
 
 ### PDFs
-+ [DevOps Revise Notion Notes](DevOps/pdfs/DevOps-Revise-Notion-Notes.pdf)
+  + [DevOps Revise Notion Notes](DevOps/pdfs/DevOps-Revise-Notion-Notes.pdf)
 
 ## Collection of Resources
-+ [All Resources](DevOps/obsidian-Notes/DevOps/Resources-and-Links.md)
+  + [All Resources + Links](DevOps/obsidian-Notes/DevOps/Resources-and-Links.md)
