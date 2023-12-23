@@ -25,7 +25,7 @@
   + [Yt-local](DevOps/obsidian-Notes/Projects/Yt-local.md)
     
 ### Interview Questions
-  + [TCS DevOps Interview Questions](DevOps/obsidian-Notes/DevOps/TCS-DevOps-Interview-Questions.md)
+  + [TCS DevOps Interview Questions](DevOps/obsidian-Notes/DevOps/Interview-Questions/TCS-DevOps-Interview-Questions.md)
   
     
 ### Unsorted
