@@ -22,7 +22,8 @@ kanban-plugin: basic
 - [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [ ] [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - [ ] [stroobants.dev](https://stroobants.dev/)
-
+- [ ] [Learn git GUI way](https://learngitbranching.js.org/)
+- [ ] [postgresql docker setup](https://www.baeldung.com/ops/postgresql-docker-setup)
 
 ## YT RESOURCE
 
@@ -36,6 +37,7 @@ kanban-plugin: basic
 - [ ] [Linux Fundamentals AWS DevOps Training](https://www.youtube.com/watch?v=QZv9eQvr15I)
 - [ ] [Best Games to Teach you Code](https://www.youtube.com/watch?v=A8SythA_P_U)
 - [ ] [DevOps Course for beginners from Freecodecamp.org](https://youtu.be/j5Zsa_eOXeY)
+- [ ] [GUI EC2 Instance](https://www.youtube.com/watch?v=foCG_mH8bxk)
 
 ## Resume Resource
 - [ ] [Overleaf - Latex based](https://www.overleaf.com/)
