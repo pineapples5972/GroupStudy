@@ -15,6 +15,13 @@ kanban-plugin: basic
 - [ ] [Devdocs](https://devdocs.io/)
 - [ ] [Devops resources by Rohit.G](https://github.com/rohitg00/DevOpsCommunity)
 - [ ] [All DevOps days + projects](https://medium.com/@saurabhdahibhate50)
+- [ ] [Devops.com](https://devops.com/)
+- [ ] [snowdev](https://snow-dev.com/)
+- [ ] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+- [ ] [Devops Resources](https://github.com/bregman-arie/devops-resources)
+- [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
+- [ ] [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
+- [ ] [stroobants.dev](https://stroobants.dev/)
 
 
 ## YT RESOURCE
@@ -40,6 +47,9 @@ kanban-plugin: basic
 - [ ] [Github | awesome-remotework](https://github.com/hugo53/awesome-RemoteWork)
 - [ ] [Google form | Cybersecurity FREE INTERNSHIP](https://docs.google.com/forms/d/e/1FAIpQLSdddr_JaCY6zRFfm2dVMDm2tFmW1q3l-Oo5S2zoNeUKDV_CRw/viewform)
 
+## Interview Practices
+- [ ] [Linux SysAdmin Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
+- 
 
 ## Hands On Projects
 
