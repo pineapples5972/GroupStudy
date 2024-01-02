@@ -24,6 +24,8 @@ kanban-plugin: basic
 - [ ] [stroobants.dev](https://stroobants.dev/)
 - [ ] [Learn git GUI way](https://learngitbranching.js.org/)
 - [ ] [postgresql docker setup](https://www.baeldung.com/ops/postgresql-docker-setup)
+- [ ] [Cloud Free Tier Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
+- [ ] [Free Certification](https://github.com/cloudcommunity/Free-Certifications)
 
 ## YT RESOURCE
 
