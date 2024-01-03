@@ -62,6 +62,11 @@ kanban-plugin: basic
 - [ ] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [ ] [DevOps Projects](https://github.com/Abhinav-26/DevOps-Projects)
 
+## Homeserver Stuff
+- [ ] [Youtube | The $0 Home Server](https://www.youtube.com/watch?v=IuRWqzfX1ik)
+- [ ] [Youtube | Can You Use a Laptop as a Home Server?](https://www.youtube.com/watch?v=zzRo0unYOeE)
+- [ ] [Youtube | Free Web Hosting That ACTUALLY Works in 2023](https://www.youtube.com/watch?v=rrHrcRMRTtQ)
+- [ ] [Youtube | Building A DIY NAS On A Budget - TrueNAS Scale](https://www.youtube.com/watch?v=jf_5FaVFnrU)
 
 %% kanban:settings
 ```
