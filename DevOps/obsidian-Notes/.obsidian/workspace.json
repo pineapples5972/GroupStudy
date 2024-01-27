@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85625bfd60e604aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/DevOps-Interview-Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b3528b9fa880457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCS DevOps Interview Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "618483c0941ae067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Concepts.md",
+                "file": "Unsorted/Error-Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2db6cff63a367d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Terraform/Terraform-Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Concepts.md",
+                "file": "DevOps/Terraform/Terraform-Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Concepts.md",
+                "file": "DevOps/Terraform/Terraform-Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Concepts.md"
+                "file": "DevOps/Terraform/Terraform-Concepts.md"
               }
             }
           }
@@ -173,23 +161,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25a56aa36526bda8",
+  "active": "2db6cff63a367d27",
   "lastOpenFiles": [
-    "TCS DevOps Interview Questions.md",
-    "Projects/Nginx-Web-Hosting.md",
-    "Projects/Voting-App.md",
-    "Projects/Yt-local.md",
+    "Cybersecurity/Directory Listing.md",
     "Unsorted/Error-Journal.md",
-    "Dashboard.md",
     "Unsorted/Random-Links.md",
-    "DevOps/Resources-and-Links.md",
-    "DevOps/DevOps-Interview-Questions.md",
-    "attachments/Images/Pasted image 20231202161526.png",
-    "DevOps/Docker/Docker-Commands.md",
+    "canvases/DevOps-Mind-map.canvas",
+    "metadata/attachments/Images/Pasted image 20240116142023.png",
+    "metadata",
+    "Cybersecurity",
+    "metadata/attachments/Images/Pasted image 20240116140803.png",
+    "DevOps/Terraform/HCL-Basics.md",
+    "DevOps/Terraform/Terraform-Commands.md",
+    "DevOps/Kubernetes/Kubernetes-Commands.md",
     "DevOps/Terraform/Terraform-Concepts.md",
-    "DevOps-Concepts.md",
+    "DevOps/Terraform/Installing-Terraform.md",
+    "metadata/attachments/Images/Pasted image 20240117100333.png",
+    "metadata/attachments/Images/Pasted image 20240117095046.png",
+    "metadata/attachments/Images/Pasted image 20240117094903.png",
+    "metadata/attachments/Images/Pasted image 20240117094539.png",
+    "metadata/attachments/Images/Pasted image 20240117094314.png",
+    "DevOps/DevOps-Interview-Questions.md",
+    "metadata/attachments/Images/Pasted image 20240116162945.png",
+    "metadata/attachments/Images/Pasted image 20240116155220.png",
+    "metadata/attachments/Images/Pasted image 20240116155140.png",
+    "DevOps/Resources-and-Links.md",
+    "DevOps/DevOps-Concepts.md",
+    "DevOps/Projects/Voting-App.md",
+    "DevOps/Projects/Nginx-Web-Hosting.md",
+    "DevOps/Kubernetes/Voting-app-kubernetes.md",
+    "DevOps/Kubernetes/Kubernetes-Concepts.md",
+    "DevOps/TCS DevOps Interview Questions.md",
+    "DevOps/Projects/Yt-local.md",
+    "Dashboard.md",
+    "DevOps/Docker/Docker-Commands.md",
     "DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md",
-    "DevOps/Docker/Untitled",
-    "canvases/DevOps-Mind-map.canvas"
+    "DevOps/Docker/Untitled"
   ]
 }

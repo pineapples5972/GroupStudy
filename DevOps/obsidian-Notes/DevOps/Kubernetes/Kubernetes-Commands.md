@@ -34,3 +34,4 @@
 - describe a service - `kubectl describe service service-name`
 - delete a service - `kubectl delete service service-name`
 
+
