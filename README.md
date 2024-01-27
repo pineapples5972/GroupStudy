@@ -29,6 +29,8 @@
   + [TCS DevOps Interview Questions](DevOps/obsidian-Notes/DevOps/Interview-Questions/TCS-DevOps-Interview-Questions.md)
   + [MCQs](DevOps/obsidian-Notes/DevOps/Interview-Questions/MCQs.md)
   
+### Cybersecurity
+  + [Directory Listing](DevOps/obsidian-Notes/Cybersecurity/Directory-Listing.md)
     
 ### Unsorted
   + [Error Journal](DevOps/obsidian-Notes/Unsorted/Error-Journal.md)
