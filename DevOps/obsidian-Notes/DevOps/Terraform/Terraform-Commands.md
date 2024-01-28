@@ -1,23 +1,41 @@
+---
+dg-publish: true
+---
 #terraform #commands 
 
+![[Pasted image 20240117094903.png]]
 ### Init
-`terraform init`
+after writing the terraform file we can run `terraform init` command
+
+Init command will check the configuration file and initialize the working directory cotntaining .tf file.
+![[Pasted image 20240117094314.png]]
 
 ### Plan
-`terraform plan`
+Next run `terraform plan`
+To review the execucation plan that will be carried out by terraform.
+It will displayed the list of actions that will be taken by terraform.
+and the changes that going to happen.
+This will also shows the changes we did not specified. These are the values that are neccessary to make resources work fine terraform take care of this for you.
 
+![[Pasted image 20240117094539.png]]
 ### Apply
 `terraform apply`  
+After the review we can create the resources with this command.
+This command will display the execution plan once again to ensure everything is going according to plan and ask for user's confirmation and apply the changes.
 
+![[Pasted image 20240117095046.png]]
 
 ### Show
 `terraform show`
-`terraform show -json`
+while we can always check manually if our files and resources created,
+running `terraform show` in the configuration file directory it will show the details of the resources that you are just created. This command inspect the state file and displays the resource details.
+![[Pasted image 20240117100333.png]]
+Additionally you can display the same information with json format with `terraform show -json`.
 
 ### Destroy
 `terraform destroy`
 
-
+To destroy the resources and clean the infrastructure we can use this command.
 ### Validate
 `terraform validate`
 
