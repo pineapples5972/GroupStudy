@@ -13,6 +13,7 @@
   + [Kubernetes Commands](DevOps/obsidian-Notes/DevOps/Kubernetes/Kubernetes-Commands.md)
 
 ### Terraform
+  + [HCL Basics](DevOps/obsidian-Notes/DevOps/Terraform/HCL-Basics.md)
   + [Terraform Concepts](DevOps/obsidian-Notes/DevOps/Terraform/Terraform-Concepts.md)
   + [Terraform Commands](DevOps/obsidian-Notes/DevOps/Terraform/Terraform-Commands.md)
 
