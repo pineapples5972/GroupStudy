@@ -1,53 +1,24 @@
----
-tags:
-  - DevOps
-  - "#Docker"
-  - "#Kubernetes"
-  - "#Projects"
-  - "#Terraform"
-  - "#Interview_questions"
-  - Resources_Links
-  - Unsorted
-  - "#Installations"
-  - "#Concepts"
-  - CICD
-  - Commands
----
-![img](http://static.planetminecraft.com/files/resource_media/screenshot/1134/2011-08-24_154745_353846.jpg)
+# DevOps Study
+### Docker Notes
++ [DevOps Interview Questions.md](DevOps/obsidian-Notes/DevOps/DevOps-Interview-Questions.md)
++ [Docker Commands.md](DevOps/obsidian-Notes/DevOps/Docker/Docker-Commands.md)
++ [Docker Interview Questions by ChatGPT.md](DevOps/obsidian-Notes/DevOps/Docker/Docker-Interview-Questions-by-ChatGPT.md)
++ [Docker Resources.md](DevOps/obsidian-Notes/DevOps/Docker/Docker-Resources.md)
++ [Introduction to YAML.md](DevOps/obsidian-Notes/DevOps/Docker/Introduction-to-YAML.md)
 
+### Kubernetes
++ [Installing Kubernetes](DevOps/obsidian-Notes/DevOps/Kubernetes/Installing-Kubernetes.md)
++ [Voting app kubernetes](DevOps/obsidian-Notes/DevOps/Kubernetes/Voting-app-kubernetes.md)
++ [Kubernetes Concepts](DevOps/obsidian-Notes/DevOps/Kubernetes/Kubernetes-Concepts.md)
++ [Kubernetes Commands](DevOps/obsidian-Notes/DevOps/Kubernetes/Kubernetes-Commands.md)
 
-| **Docker** | **Kubernetes** | **Terraform** |
-| ---- | :--: | ---: |
-| [[Docker Concepts]] | [[Kubernetes-Concepts]] | [[Terraform-Concepts]] |
-| [[Docker-Commands]] | [[Kubernetes-Commands]] | [[Terraform-Commands]] |
-| [[Docker Installation]]<br> | [[Installing-Kubernetes]] | [[Installing-Terraform]] |
-| [[Introduction-to-YAML]] |  | [[HCL-Basics]] |
+### Projects
 
-### 🛳️Docker
-- [[Docker Concepts]]
-- [[Docker Installation]]
-- [[Docker-Commands]]
-- [[Introduction-to-YAML]] 
-### <img src="https://duckduckgo.com/i/2ecee014.png" alt="My Image" width="30" height="30">Kubernetes
-- [[Installing-Kubernetes]]
-- [[Kubernetes-Commands]]
-- [[Kubernetes-Concepts]]
-### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F519-5197888_terraform-terraform-icon-png-clipart.png&f=1&nofb=1&ipt=e8b22dedcfcad4db22a5b397ffd8ff254a9b597c07afdb55584393cda576139e&ipo=images" width="30px" height="30px"> Terraform
-- [[HCL-Basics]]
-- [[Installing-Terraform]]
-- [[Terraform-Commands]]
-- [[Terraform-Concepts]]
-### 📋Projects
-- [[Nginx-Web-Hosting]]
-- [[Voting-App]]
-- [[Voting-app-kubernetes]]
-- [[Yt-local]]
-- [[NodeJs App with Woodpecker-CI]]
-### 💼Interview Questions
-- [[TCS DevOps Interview Questions]]
-- [[Docker-Interview-Questions-by-ChatGPT]]
-- [[DevOps-Interview-Questions]]
-### 🗃️Links and Resources
-- [[Resources-and-Links]]
-### 🎋Unsorted
-- [[Error-Journal]]
++ [Nginx Web Hosting](DevOps/obsidian-Notes/Projects/Nginx-Web-Hosting.md)
++ [Voting App](DevOps/obsidian-Notes/Projects/Voting-App.md)
+
+### Unsorted
++ [Error Journal](DevOps/obsidian-Notes/Unsorted/Error-Journal.md)
+
+### PDFs
++ [DevOps Revise Notion Notes](DevOps/pdfs/DevOps-Revise-Notion-Notes.pdf)
